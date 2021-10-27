@@ -1,6 +1,6 @@
 :root {
     --pagebg: #FFF;
-    --main: #102581;
+    --main: #45B8AC;
     --bglink: rgba(0, 0, 0, 0.3);
     --darkbg: #FFF;
     --lightbg: #000;
@@ -54,7 +54,7 @@ ul li a {
     color: var(--darkbg);
     text-decoration: none;
     padding: 5px 15px;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 ul li.active a,
 ul li:hover a {
