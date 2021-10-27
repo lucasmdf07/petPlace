@@ -4,3 +4,10 @@ npm install express mustache-express dotenv
 npm install --save-dev @types/express @types/mustache-express @types/node
 nodemon, typescript,ts-node
 npm install -g nodemon typescript ts-node
+
+tsc
+
+//node dist/server.js
+
+npm install --save-dev copyfiles
+npm run postinstall
