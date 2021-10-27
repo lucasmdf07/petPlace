@@ -11,3 +11,5 @@ tsc
 
 npm install --save-dev copyfiles
 npm run postinstall
+
+npm install typescript
